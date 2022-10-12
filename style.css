@@ -1,0 +1,46 @@
+h1 {
+    color: brown;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+
+p {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+
+.para1 {
+    color: aqua;
+    background-color: crimson;
+}
+
+.para2 {
+    color: blue;
+}
+
+.para3 {
+    color: red;
+    background-color: teal;
+}
+
+.para4 {
+    color: blueviolet;
+}
+
+div {
+
+    width: 80%;
+    border: 1px solid black;
+    padding: 160px;
+    border-radius: 55px;
+    margin: auto;
+
+}
+
+img {
+    margin-right: 209px;
+    width: 300px;
+    float: left;
+   
+
+}
